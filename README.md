@@ -42,15 +42,7 @@ I build full-stack products — from polished web dashboards to AI-powered deskt
 
 ---
 
-### Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **TraderCoPilot** | AI-powered desktop trading assistant with voice I/O, real-time market monitoring, and adaptive themes | Python, PySide6, OpenAI |
-| **Enguard** | Full-stack security platform with REST API, OAuth, WebSockets, and analytics dashboard | Next.js, Node.js, PostgreSQL, AWS |
-| **iVoteLive** | Live voting and polling platform with real-time results | Next.js, TypeScript, NextAuth |
-| **Casper Studios** | CCTV-based loitering detection in restricted zones using multi-object tracking | Python, YOLOv8, ByteTrack, OpenCV |
-| **Altium Parser** | Binary parser for Altium `.SchDoc` schematic files — extracts component metadata to JSON | Python |
 
 
 
